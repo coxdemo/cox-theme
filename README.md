@@ -1,0 +1,2 @@
+# cox-theme
+WordPress theme
